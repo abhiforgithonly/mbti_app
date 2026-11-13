@@ -1,0 +1,366 @@
+[
+  {
+    "question_number": 1,
+    "trait": "IE",
+    "text": "You get stuck in a broken elevator. Within 90 seconds, you have started a cult and named yourself Supreme Leader.",
+    "model_col": "Q1",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 2,
+    "trait": "IE",
+    "text": "When someone cancels plans, your soul leaves your body in pure happiness like a Victorian ghost.",
+    "model_col": "Q2",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 3,
+    "trait": "IE",
+    "text": "You see a quiet person sitting alone at a party and decide, 'Congrats, you are my hostage bestie now.'",
+    "model_col": "Q3",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 4,
+    "trait": "IE",
+    "text": "You would rather fight a raccoon in a dark alley than say 'So, what do you do for work?' at a party.",
+    "model_col": "Q5",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 5,
+    "trait": "IE",
+    "text": "If nobody talks to you for three hours, you poke yourself in the mirror to make sure you still exist.",
+    "model_col": "Q9",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 6,
+    "trait": "IE",
+    "text": "You accidentally make eye contact with a stranger on the street and immediately feel forced to start a full conversation.",
+    "model_col": "Q14",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 7,
+    "trait": "IE",
+    "text": "Your social battery dies so fast that even texting 'haha yeah' feels like running a marathon.",
+    "model_col": "Q15",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 8,
+    "trait": "IE",
+    "text": "You treat every cashier, delivery driver, and random dog walker like they are co-hosts on your personal talk show.",
+    "model_col": "Q16",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 9,
+    "trait": "IE",
+    "text": "Being invited to a surprise party is your actual worst nightmare, right above falling into a volcano.",
+    "model_col": "Q18",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 10,
+    "trait": "IE",
+    "text": "You get bored so easily alone in your room that you start arguing with your own reflection just for drama.",
+    "model_col": "Q21",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 11,
+    "trait": "IE",
+    "text": "You love your friends deeply, mostly from a safe distance of at least three miles and behind a locked door.",
+    "model_col": "Q22",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 12,
+    "trait": "IE",
+    "text": "You can turn a 10-second elevator ride into a lifelong friendship before the doors even open.",
+    "model_col": "Q27",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 13,
+    "trait": "IE",
+    "text": "After hanging out with people for two hours, you need to lie face-down on the floor in a dark room to recharge.",
+    "model_col": "Q30",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 14,
+    "trait": "IE",
+    "text": "Silence in a group makes you so uncomfortable that you will say the weirdest thing alive just to fill the air.",
+    "model_col": "Q33",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 15,
+    "trait": "IE",
+    "text": "Your dream weekend is turning your phone on airplane mode and pretending civilization collapsed.",
+    "model_col": "Q35",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 16,
+    "trait": "NS",
+    "text": "While eating cereal, you accidentally invent a theory about how pigeons are secret government spies.",
+    "model_col": "Q6",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 17,
+    "trait": "NS",
+    "text": "When someone says 'Follow your dreams,' you ask, 'Okay, does my dream have dental insurance and free parking?'",
+    "model_col": "Q7",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 18,
+    "trait": "NS",
+    "text": "You have a 10-step plan to fight a bear, even though you get scared when the toaster pops up.",
+    "model_col": "Q8",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 19,
+    "trait": "NS",
+    "text": "You don't care about 'vibes.' If you can't lick it, poke it, or weigh it, it's fake.",
+    "model_col": "Q11",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 20,
+    "trait": "NS",
+    "text": "You zone out so hard staring at a spoon that you miss your bus stop, your birthday, and possibly a small war.",
+    "model_col": "Q13",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 21,
+    "trait": "NS",
+    "text": "You randomly wonder what colors look like to a crab instead of paying attention to what someone is saying to you.",
+    "model_col": "Q23",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 22,
+    "trait": "NS",
+    "text": "When someone tells you a crazy dream they had, you immediately check out because none of it happened in real life.",
+    "model_col": "Q25",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 23,
+    "trait": "NS",
+    "text": "You connect two totally random things\u2014like burnt toast and ancient Rome\u2014and somehow make it sound deep.",
+    "model_col": "Q26",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 24,
+    "trait": "NS",
+    "text": "You actually read the instruction manual before building furniture instead of guessing and crying later.",
+    "model_col": "Q29",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 25,
+    "trait": "NS",
+    "text": "You spend half your day living in fake scenarios inside your head that will never happen.",
+    "model_col": "Q32",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 26,
+    "trait": "NS",
+    "text": "You notice immediately when someone gets a tiny haircut or moves a lamp two inches to the left.",
+    "model_col": "Q36",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 27,
+    "trait": "NS",
+    "text": "You love weird 'what if' questions, like 'What if chairs had kneecaps?'",
+    "model_col": "Q41",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 28,
+    "trait": "NS",
+    "text": "If a recipe says 'add a pinch of salt,' you get mad because you want exact grams and measurements.",
+    "model_col": "Q53",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 29,
+    "trait": "TF",
+    "text": "A baby pigeon falls over. Instead of feeling bad, you think, 'Skill issue, honestly.'",
+    "model_col": "Q4",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 30,
+    "trait": "TF",
+    "text": "You accidentally drop a sock on the floor and feel guilty because now it's separated from its twin brother.",
+    "model_col": "Q12",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 31,
+    "trait": "TF",
+    "text": "When a friend cries about a bad haircut, you calmly pull out a ruler to measure how uneven it really is.",
+    "model_col": "Q17",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 32,
+    "trait": "TF",
+    "text": "If a cloud looks vaguely like a sad puppy, you need to lie down on the floor and cry for ten minutes.",
+    "model_col": "Q19",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 33,
+    "trait": "TF",
+    "text": "You cheer for the movie villain because at least they had a calendar and a working PowerPoint presentation.",
+    "model_col": "Q20",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 34,
+    "trait": "TF",
+    "text": "When someone tells you a sad story, your brain automatically tries to fix their problem instead of just giving a hug.",
+    "model_col": "Q28",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 35,
+    "trait": "TF",
+    "text": "You feel bad throwing away an ugly stuffed toy because you think it will feel abandoned in the trash.",
+    "model_col": "Q34",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 36,
+    "trait": "TF",
+    "text": "You would rather be brutally honest and start a tiny fire than tell a white lie to keep the peace.",
+    "model_col": "Q37",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 37,
+    "trait": "TF",
+    "text": "If someone uses a slightly sharp tone with you, you replay that conversation in your head for the next six years.",
+    "model_col": "Q39",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 38,
+    "trait": "TF",
+    "text": "In horror movies, you get mad at the characters for making dumb decisions instead of feeling scared for them.",
+    "model_col": "Q40",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 39,
+    "trait": "TF",
+    "text": "You can tell the exact second someone's mood shifts in a room, even if they are smiling.",
+    "model_col": "Q46",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 40,
+    "trait": "TF",
+    "text": "You treat every minor disagreement like a courtroom trial where you brought receipts and witnesses.",
+    "model_col": "Q48",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 41,
+    "trait": "TF",
+    "text": "You cry at wholesome commercials about grandpas eating soup.",
+    "model_col": "Q49",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 42,
+    "trait": "TF",
+    "text": "If a rule makes zero logical sense, you break it out of pure disrespect.",
+    "model_col": "Q50",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 43,
+    "trait": "JP",
+    "text": "You write 'Make a to-do list' on your to-do list just so you can cross it off and feel godlike.",
+    "model_col": "Q10",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 44,
+    "trait": "JP",
+    "text": "Your life plan is just a sticky note that says 'idk lol' taped to a burning dumpster.",
+    "model_col": "Q24",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 45,
+    "trait": "JP",
+    "text": "If someone arrives 4 minutes late, you silently put a tiny curse on their bloodline.",
+    "model_col": "Q31",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 46,
+    "trait": "JP",
+    "text": "You don't start working until the panic monster kicks down your door at 3:14 AM.",
+    "model_col": "Q42",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 47,
+    "trait": "JP",
+    "text": "Before taking a relaxing nap, you set three alarms and rank your dreams by priority.",
+    "model_col": "Q43",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 48,
+    "trait": "JP",
+    "text": "You pack your bags three days before a trip and check your passport fourteen times.",
+    "model_col": "Q44",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 49,
+    "trait": "JP",
+    "text": "You pack your bags 15 minutes before leaving and just throw random clothes into a tote bag like a raccoon.",
+    "model_col": "Q47",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 50,
+    "trait": "JP",
+    "text": "Seeing an unorganized desktop with 200 random files gives you physical chest pain.",
+    "model_col": "Q51",
+    "sign_multiplier": 1
+  },
+  {
+    "question_number": 51,
+    "trait": "JP",
+    "text": "Your room looks like a tornado hit it, yet you know the exact pile where your missing charger is buried.",
+    "model_col": "Q52",
+    "sign_multiplier": -1
+  },
+  {
+    "question_number": 52,
+    "trait": "JP",
+    "text": "You hate surprises unless you were secretly the one who planned the surprise.",
+    "model_col": "Q56",
+    "sign_multiplier": 1
+  }
+]
